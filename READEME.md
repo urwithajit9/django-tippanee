@@ -5,7 +5,9 @@ A reusable Django app for a generic comment system with DRF API support, using `
 ## Installation
 
 ```bash
-pip install django-tippanee
+pip install django-tippanee  # after uploading to pypi
+
+pip install git+https://github.com/urwithajit9/django-tippanee.git
 ```
 
 ## Usage
